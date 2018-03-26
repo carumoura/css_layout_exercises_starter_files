@@ -1,0 +1,48 @@
+main {
+    font-size: 0;
+}
+
+.parent {
+
+    width: 800px;
+    margin: auto;
+
+}
+
+
+
+.green {
+    display: inline-block;
+    background-color: green;
+    width: 50%;
+    height: 200px;
+}
+
+.blue {
+    display: inline-block;
+    background-color: blue;
+    width: 50%;
+    height: 200px;
+}
+
+.grey {
+    display: inline-block;
+    background-color: darkgrey;
+    width: 33%;
+    height: 300px;
+}
+
+.black {
+    display: inline-block;
+    background-color: black;
+    width: 33%;
+    height: 300px;
+}
+
+.yellow {
+    display: inline-block;
+    background-color: lightgoldenrodyellow;
+    width: 33%;
+    height: 300px;
+
+}
