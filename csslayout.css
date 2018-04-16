@@ -58,6 +58,13 @@ input {
     padding: 2px;
 }
 
+span {
+    border: 1px solid #ccc;
+    padding: 3px;
+    text-align: center;
+
+}
+
 table {
     font-family: sans-serif;
     color: darkgrey;
